@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando ciência de dados com python
-- 😄 Pronouns: ele/dele
+- 😄 ele/dele
 
  <div>
   <a href="https://github.com/Visheuleer">
