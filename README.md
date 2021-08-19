@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="right" alt="Naruto" height = "250" src="https://cdn.discordapp.com/attachments/706583749244223538/877966943007678464/original.gif">
+  <img align="right" alt="Naruto" height = "250" width = "230" src="https://cdn.discordapp.com/attachments/706583749244223538/877966943007678464/original.gif">
 </div>
   
   ##
