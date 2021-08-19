@@ -1,7 +1,8 @@
 ### Olá, eu sou o Jonas
 
-- 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando ciência de dados com python
+- 🎓 Graduando em análise e desenvolvimento de sistemas 
+- 📚 Atualmente aprendendo um pouco de ciência de dados
+- 💼 Gamedeveloper, front-end e artista 2D
 - 😄 ele/dele
 
  <div>
