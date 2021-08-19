@@ -1,4 +1,4 @@
-### Olá, eu sou o Jonas
+### Olá, eu sou o Jonas!
 
 - 🎓 Graduando em análise e desenvolvimento de sistemas 
 - 📚 Atualmente aprendendo um pouco de ciência de dados
