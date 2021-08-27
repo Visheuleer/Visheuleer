@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Jonas!
 
-- 🎓 Graduando em análise e desenvolvimento de sistemas 
+- 🎓 Cursando 2° semestre em análise e desenvolvimento de sistemas 
 - 📚 Atualmente aprendendo um pouco de ciência de dados
 - 💼 Gamedeveloper, front-end e artista 2D
 - 😄 ele/dele
