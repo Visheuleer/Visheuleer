@@ -25,6 +25,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Power-BI" height="35" width="35" src="https://cdn.discordapp.com/attachments/706583749244223538/883843494521765928/New_Power_BI_Logo.svg_.png">
     <img align="center" alt="Unity" height="35" width="35" src="https://cdn.discordapp.com/attachments/836712599180935248/873092697592823838/pngwing.com.png">
    <img align="center" alt="GameMaker" height="35" width="35" src="https://cdn.discordapp.com/attachments/706583749244223538/880903208040546324/GMS2_Primary_DblLine_BlackTransparent.png">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
