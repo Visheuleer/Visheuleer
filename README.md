@@ -4,7 +4,7 @@
 
 - 🎓 Cursando 2° semestre em análise e desenvolvimento de sistemas 
 - 📚 Atualmente aprendendo um pouco de ciência de dados
-- 💼 Gamedeveloper, front-end e artista 2D
+- 💼 Gamedeveloper e front-end 
 - 😄 ele/dele
 
 ##
