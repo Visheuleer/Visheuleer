@@ -2,9 +2,8 @@
 
 ### Olá, eu sou o Jonas!
 
-- 🎓 Cursando 3° semestre em análise e desenvolvimento de sistemas 
-- 📚 Atualmente aprendendo um pouco de ciência de dados
-- 💼 Gamedeveloper e front-end 
+- 🎓 Cursando 5° semestre em análise e desenvolvimento de sistemas 
+- 💼 Desenvolvedor Python e RPA
 - 😄 ele/dele
 
 ##
