@@ -3,7 +3,7 @@
 ### Olá, eu sou o Jonas!
 
 - 🎓 Formado em Análise e Desenvolvimento de sistemas/Cursando pós em Big Data, Business Intelligence e Business Analytics na UFRJ 
-- 💼 Desenvolvedor Back-end e Devops
+- 💼 Cientista de Dados e Devops
 - 😄 ele/dele
 
 ##
