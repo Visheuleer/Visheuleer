@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Jonas!
 
-- 🎓 Cursando 6° semestre em análise e desenvolvimento de sistemas 
+- 🎓 Formado em Análise e Desenvolvimento de sistemas/Cursando pós em Engenharia de Software na UFRJ 
 - 💼 Desenvolvedor Back-end e Devops
 - 😄 ele/dele
 
