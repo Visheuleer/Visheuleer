@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o Jonas!
 
-- 🎓 Formado em Análise e Desenvolvimento de sistemas/Cursando pós em Big Data, Business Intelligence e Business Analytics na UFRJ 
+- 🎓 Formado em Análise e Desenvolvimento de sistemas
 - 💼 Desenvolvedor Full Stack e Cientista de Dados
 - 😄 ele/dele
 
