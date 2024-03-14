@@ -25,7 +25,6 @@
    <img align="center" alt="SpringBoot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
    <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img align="center" alt="Ansible" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
-   <img align="center" alt="Kubernetes" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
 
 </div>
   
