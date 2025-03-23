@@ -12,7 +12,7 @@
 
 ### Stats
 
-![Visheuleer GitHub stats](https://github-readme-stats.vercel.app/api?username=visheuleer&show_icons=true&theme=gotham)
+![Visheuleer GitHub stats](https://github-readme-stats.vercel.app/api?username=visheuleer&count_private=true&show_icons=true&theme=gotham)
  
  ##
  
