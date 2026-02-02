@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Visheuleer/Visheuleer/output/snake.svg" />
+</p>
+
 <table>
 <tr>
 <td width="70%" valign="top">
