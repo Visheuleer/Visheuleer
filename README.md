@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Visheuleer/Visheuleer/output/snake.svg" />
-</p>
-
 <table>
 <tr>
 <td width="70%" valign="top">
@@ -16,7 +12,7 @@ I enjoy building complex systems and turning ideas into reliable, well-structure
 Beyond my day-to-day work, I'm especially interested in educational technology, with a focus on language learning.
 
 </td>
-<td width="30%" align="right" valign="top">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://giffiles.alphacoders.com/219/219117.gif" width="220"/>
 
@@ -69,11 +65,11 @@ Beyond my day-to-day work, I'm especially interested in educational technology, 
 
 </td>
 
-<td width="10%" valign="top" align="center">
+<td width="10%" valign="middle" align="center">
 
 <img
-  src="https://media.tenor.com/hbS7Khmb5ocAAAAM/jlp-the-office.gif"
-  width="250"
+  src="https://i.pinimg.com/originals/d2/a5/fc/d2a5fcc915a2d65a48ecd4c7a64c2c3d.gif"
+  width="220"
 />
 
 </td>
@@ -128,3 +124,7 @@ LexiGrade explores the intersection of applied linguistics, NLP, and AI-assisted
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Visheuleer/Visheuleer/output/snake.svg" />
+</p>
